@@ -1,7 +1,7 @@
 # CleanArchitectureNoteApp
 **A note taking app which is used to add, delete, and edit notes.**
 
-**Tech Stack** - Jetpack Compose, Clean Architecture, Coroutines, Room and Hilt
+**Tech Stack** - Jetpack Compose, Clean Architecture, MVVM, Coroutines, Room and Hilt
 
 Screenshots
 
